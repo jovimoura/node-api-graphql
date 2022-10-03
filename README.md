@@ -38,8 +38,6 @@ npm run dev
 
 ## Tecnologies and Libs:
 
-<br>
-
 <div style="display: flex; gap: 8px;">
   <div>
     <h4>Complex API</h4>
@@ -63,8 +61,6 @@ npm run dev
     </ul>
   </div>
 </div>
-
-<br>
 
 ## Made by:
 
